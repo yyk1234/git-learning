@@ -4,3 +4,4 @@
 这是feature分支独有的功能
 学习Git快进合并
 yyk still love lsy 
+这一行是在克隆项目中
